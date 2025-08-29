@@ -1,0 +1,13 @@
+.chat input {
+  width: 300px;
+  padding: 0.5rem;
+}
+.chat button {
+  padding: 0.5rem 1rem;
+  margin-left: 0.5rem;
+}
+.resposta {
+  margin-top: 1rem;
+  border: 1px solid #0066FF;
+  padding: 0.5rem;
+}

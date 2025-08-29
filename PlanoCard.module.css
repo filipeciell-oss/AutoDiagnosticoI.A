@@ -1,0 +1,13 @@
+.card {
+  border: 2px solid;
+  padding: 1rem;
+  border-radius: 8px;
+  text-align: center;
+}
+.card button {
+  padding: 0.5rem 1rem;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
